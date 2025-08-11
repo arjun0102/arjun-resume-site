@@ -2,7 +2,7 @@
   "name": "arjun-resume-site",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yourusername.github.io/your-repo-name",
+  "homepage": "https://arjun0102.github.io/your-repo-name",
   "type": "module",
   "scripts": {
     "dev": "vite",
